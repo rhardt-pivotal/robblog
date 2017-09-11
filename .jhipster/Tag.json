@@ -1,0 +1,16 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170911193633",
+    "dto": "no",
+    "service": "no",
+    "entityTableName": "tag",
+    "jpaMetamodelFiltering": false,
+    "pagination": "infinite-scroll"
+}
